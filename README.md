@@ -1,2 +1,13 @@
-# star_wars_node_js_app
-A Star Wars App that gives information on each of the movies ( Node.js, EJS )
+# Star Wars Node.js Application
+
+## Aplikacja stworzona podczas nauki  NODE.JS oraz EXPRESS.JS.
+
+### Technologie użyte podczas nauki:
+
+- Node.js
+- Express.js
+- NPM
+- JavaScript
+- JSON
+
+![](https://vignette.wikia.nocookie.net/starwars/images/c/cc/Star-wars-logo-new-tall.jpg/revision/latest?cb=20190313021755)
